@@ -1,4 +1,4 @@
-# kuis_ui_ux
+# myShop Mini
 
 A new Flutter project.
 
